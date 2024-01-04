@@ -2,10 +2,9 @@
 
 # Canvas
 
-> Realtime whiteboard app built with React and Socket.io.
-> Supports smoothed freehand drawing, basic geometric shapes, text and images.
+> Canvas is a real-time collaboration platform that allows users to draw, write, and collaborate together in a shared digital space.
 
-[Live demo here](https://canvas.espiec.com)
+### [Live demo here](https://canvas.espiec.com) (In construction)
 
 ## Screenshot
 
